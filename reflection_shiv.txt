@@ -1,0 +1,3 @@
+I learned how to create branches and pull requests to work on the same project with my teammates.<br>
+Using GitHub made it easy to share our work, keep track of changes, and review each other’s updates.<br>
+This experience showed me how useful GitHub is for teamwork and keeping everything organized .
